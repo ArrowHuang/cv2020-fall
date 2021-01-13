@@ -24,4 +24,4 @@ Homework9 General Edge Detection.
 
 Homework10 Zero Crossing Edge Detection. 
 
-## ***Independence is the basic characteristics of genius.***
+## ***Independence is the basic characteristics of genius.*** 
